@@ -1,0 +1,7 @@
+
+~~~~Swift Bank~~~~
+Welcome to Swift Bank
+[1] Change user details
+[2] Deposit
+[3] Withdraw
+[4] Check Balance

@@ -1,0 +1,1 @@
+{'name': 'ahmed', 'account number': 522, 'balance': '2000'}{'name': 'jack', 'account number': 493, 'balance': '1000'}{'name': 'john', 'account number': 927, 'balance': '100'}{'name': 'iifa', 'account number': 714, 'balance': '1000'}
